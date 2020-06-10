@@ -1,0 +1,4 @@
+let goku = {
+    niveles : 
+    poder
+}
