@@ -1,4 +1,4 @@
 let auto ={
-    marca : Ford,
+    marca : Ford, vw,
     anio : 1999,
 }
