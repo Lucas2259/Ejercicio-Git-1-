@@ -1,1 +1,1 @@
-let mila
+let mila = ["Peceto", "Nalga", "Cuadrada"]

@@ -1,1 +1,1 @@
-let kilo
+let kilo = papa 
