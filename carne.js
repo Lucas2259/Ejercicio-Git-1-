@@ -1,1 +1,3 @@
-let mila
+let mila = {
+    precio = xk
+}

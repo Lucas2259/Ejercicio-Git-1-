@@ -1,1 +1,3 @@
-let lavandina
+let lavandina = {
+    plitro = xk
+}

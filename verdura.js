@@ -1,1 +1,3 @@
-let kilo
+let kilo = {
+    peso =xk
+}
